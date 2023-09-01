@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.lists a{
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.hero-heading{
+    max-width: 10%;
+    font-size: 60px;
+}
+
+.hero-para{
+    margin-top: 25px;
+}
+
+.main-btn{
+    outline: 0;
+    border: 0;
+    padding: 8px 40px;
+    background-color: #4b208c;
+    color: white;
+    border-radius: 22px;
+    font-weight: 600;
+    transition: all .3s ease-in;
+}
+
+.main-btn:hover{
+    background-color: purple;
+    color:white;    
+}
+
+.hero-img{
+    border-radius: 100%;
+    border:5px solid #4b208c;
+}
+
+.services h4{
+    color: #4b208c;
+}
+
+#img-1{   
+    border-radius: 100%;
+    border: 5px solid #4b208c;
+}
+
+#img-2{   
+    border-radius: 100%;
+    border: 5px solid #4b208c;
+    margin-left: 200px;
+}
+
+.blog-card{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.inpts{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    width: 100%;
+    padding: 10px 10px;
+    border: 0;
+    outline: 0;
+}
+
+#c-email{
+    margin-top: 20px;
+}
+
+#c-number{
+    margin-top: 20px;
+}
+
+#message{
+    margin-top: 20px;
+}
+
+.f-icons{
+    cursor: pointer;
+}
+
+.f-btn{
+    outline: 0;
+    border: 0;
+    padding: 8px 40px;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    transition: all .3s ease-in;
+}
+
+.f-btn:hover{
+    background-color: purple;
+    color:white;    
+}
+
+.copyright{
+    font-size: 14px;
+    margin-top: 10px;
+    font-weight: 600;
+}
